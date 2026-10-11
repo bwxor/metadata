@@ -38,5 +38,15 @@
     "slug": "crumb",
     "homepageUrl": "https://bwxor.com",
     "verified": true
+  },
+  {
+    "id": "6acb6bb8a41f2c7e9d30b158",
+    "name": "DRP (Discord Rich Presence)",
+    "description": "A plugin that displays your PieJFX activity on your Discord profile through Discord Rich Presence, showing what you're working on along with an elapsed-time counter and a link to the project.",
+    "author": "Mario Mateas",
+    "downloadUrl": "https://github.com/bwxor/drp/releases/download/Stable/drp.zip",
+    "slug": "drp",
+    "homepageUrl": "https://bwxor.com",
+    "verified": true
   }
 ]
